@@ -1,2 +1,6 @@
-cofig:
-    info: "¹þ¹þ¹þ£¡"
+server:
+  port: 3344
+
+spring:
+  application:
+    name: cloud-config-center123
