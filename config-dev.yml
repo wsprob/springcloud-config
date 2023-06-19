@@ -1,6 +1,2 @@
-server:
-  port: 3344
-
-spring:
-  application:
-    name: cloud-config-centerBBBB
+config:
+  info: version 1
